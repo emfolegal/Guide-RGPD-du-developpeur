@@ -1,4 +1,4 @@
-# Fiche n°12 : Informer les personnes
+# Fiche n°12 : Informer les personnes et receuillir leur consentement 
 
 #### Le principe de transparence du RGPD exige que toute information ou communication relative au traitement de données à caractère personnel soit concise, transparente, compréhensible et aisément accessible en des termes simples et clairs.
 
@@ -52,6 +52,8 @@
 * **Elle doit être écrite de manière concise**. Afin d’éviter l’écueil du déluge d’informations noyant l’utilisateur, il faut **amener les informations les plus pertinentes au bon moment**.
 
 * Les informations en rapport avec la protection des données doivent pouvoir être **distinguées de celles qui ne sont pas spécifiquement liées à la vie privée** (comme les clauses contractuelles ou les conditions générales d’utilisation).
+
+* **Le consentement doit être libre, spécifique, éclairé et univoque**. Pour que l'information soit valable, il faut que la personne donne son consentement. Ce consentement doit être libre, c'est-à-dire que son **refus ne compromet pas le service proposé**. Il doit être specifique, c'est-à-dire que la personne doit donner son **consentement pour chaque traitement et pour la finalité spécifique de ce traitement**. Il doit être éclairé, c'est-à-dire **vous devez être transparent** sur un certain nombre de points énumérés ici https://www.cnil.fr/fr/conformite-rgpd-comment-recueillir-le-consentement-des-personnes. Et le consentement doit être univoque, c'est-à-dire **une action positive, et non pas une case precochée** par exemple.  
 
 ## 	Quelle communication effectuer lorsque la sécurité des données est compromise ?
 
